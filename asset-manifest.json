@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robot-inventory.git/static/css/main.ca1f9571.chunk.css",
+    "main.js": "/robot-inventory.git/static/js/main.64b8904f.chunk.js",
+    "main.js.map": "/robot-inventory.git/static/js/main.64b8904f.chunk.js.map",
+    "runtime-main.js": "/robot-inventory.git/static/js/runtime-main.37aa1ddf.js",
+    "runtime-main.js.map": "/robot-inventory.git/static/js/runtime-main.37aa1ddf.js.map",
+    "static/js/2.cededccd.chunk.js": "/robot-inventory.git/static/js/2.cededccd.chunk.js",
+    "static/js/2.cededccd.chunk.js.map": "/robot-inventory.git/static/js/2.cededccd.chunk.js.map",
+    "static/js/3.c87b09ba.chunk.js": "/robot-inventory.git/static/js/3.c87b09ba.chunk.js",
+    "static/js/3.c87b09ba.chunk.js.map": "/robot-inventory.git/static/js/3.c87b09ba.chunk.js.map",
+    "index.html": "/robot-inventory.git/index.html",
+    "static/css/main.ca1f9571.chunk.css.map": "/robot-inventory.git/static/css/main.ca1f9571.chunk.css.map",
+    "static/js/2.cededccd.chunk.js.LICENSE.txt": "/robot-inventory.git/static/js/2.cededccd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37aa1ddf.js",
+    "static/js/2.cededccd.chunk.js",
+    "static/css/main.ca1f9571.chunk.css",
+    "static/js/main.64b8904f.chunk.js"
+  ]
+}
